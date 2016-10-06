@@ -30,10 +30,8 @@ The sidebar provides a small overview of who you are. One of the first elements 
 
 ```toml
 [params.sidebar]
-    avatar = "avatar.jpg"
+    avatar = "/images/avatar.jpg"
 ```
-
-The path is relative to [`./static/images`](https://github.com/digitalcraftsman/hugo-strata-theme/tree/dev/static/images).
 
 Last but not least add a few words about you and your work.
 
